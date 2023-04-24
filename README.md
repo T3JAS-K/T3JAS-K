@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @T3JAS-K
 - 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me tejasxcode@gmail.com
 
